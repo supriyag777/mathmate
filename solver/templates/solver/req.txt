@@ -1,5 +1,0 @@
-Django>=4.2
-sympy
-pytesseract
-Pillow
-gunicorn
